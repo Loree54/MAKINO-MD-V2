@@ -12,7 +12,7 @@ global.antitags = false;
 //auto functioner
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
-global.autoviewstatus = false;                 //make true to view statuses 
+global.autoviewstatus = true;                 //make true to view statuses 
 global.anticall = false
 
 
