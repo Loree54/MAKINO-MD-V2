@@ -3,7 +3,7 @@ const fs = require("fs");
 //to enable function - true
 //to disable function - false
 //
-global.available = false;
+global.available = true;
 global.autoReadGc = false;
 global.autoReadAll = false;
 global.antitags = false;
@@ -11,7 +11,7 @@ global.antitags = false;
 
 //auto functioner
 global.autoTyping = false;                //make true to enable auto typing
-global.autoRecord = true;                //make true to enable auto recording
+global.autoRecord = false;                //make true to enable auto recording
 global.autoviewstatus = false;                 //make true to view statuses 
 global.anticall = false
 
